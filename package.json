@@ -1,0 +1,16 @@
+{
+  "name": "httpwebcrawler",
+  "version": "1.0.0",
+  "description": "Project for  setting up a web crawler",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Billy West",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
